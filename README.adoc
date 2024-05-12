@@ -1,1 +1,16 @@
 = Awesome Fortinet resources
+:toc-title: Contents
+:toc:
+
+
+== Blogs
+
+* https://www.ultraviolet.network/blog Matt Sherif's blog. Matt is a System Engineer at Fortinet and writes on Fortinet topics of intermediate-advanced level. 
+He is also one of the moderators of the r/fortinet sub-Reddit. 
+* https://infosecmonkey.com/ blog by Manny Fernandez - Sytem Engineer at Fortinet from US. The blog covers technical topics ranging from beginner up to advanced level.
+* https://socpuppet.blogspot.com/ Ken Felix blog on many topics, including Fortinet-related. Ken is also a long-time contributor on the community.fortinet.com forums.
+* https://blog.rdorman.net/tag/fortigate/ Ryan Dorman's blog, with few posts Fortigate-related.
+* https://travelingpacket.com/category/forti-products/ Justin Cottrell blog on Fortigate, FortiAuthenticator, Fortiswitch, FortiNAC and more.
+* https://andrewtravis.com/ Andrew Travis, System Engineer at Fortinet, blog. It covers wide range of technologies beyond Fortigate - FortiNAX, FortiNDR, FortiFlex and more.
+* https://www.historiantech.com/ Jonathan Torian blog on many things, including Fortigate, FortiAP, FortiSwitches and other.
+* https://yurisk.info Yuri Slobodyanyuk blog on many things Fortinet-related.
