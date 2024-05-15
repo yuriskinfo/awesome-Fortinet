@@ -13,6 +13,18 @@ take upon themselves to route the question to appropriate people. This is not an
 * https://community.fortinet.com/t5/Knowledge-Base/ct-p/knowledgebase Knowledgebase of example configurations, created and maintained by Fortinet staff. It has very 
 powerfull filtering/search capabilities, and is the 1st place to look for examples. 
 
+
+== News, Alerts, Updates
+How to stay up to date
+
+* https://fortiguard.fortinet.com/psirt If nothing else, at least bookmark this page and check it frequently - it lists all Fortinet products 
+vulnerabilities disclosures. You may filter by product name, severity, FortiOS version and more. Even better - subscribe to its RSS feed, see next
+* https://filestore.fortinet.com/fortiguard/rss/ir.xml RSS Feed of Fortinet products vulnerabilities. 
+* https://www.fortiguard.com/rss-feeds List of all Fortinet-provided feeds, if you incline to. I, personally, am watching only PSIRT feed in real time, the rest are nice to read, may be once a week.
+* https://www.reddit.com/r/fortinet/  Fortinet subreddit, after new vulnerability/new FortiOS version have been announced, this is the place to read comments/personal experiences of others on the topic, of course all are opionated as suits reddit.
+
+
+
 == Blogs
 
 * https://www.ultraviolet.network/blog Matt Sherif's blog. Matt is a System Engineer at Fortinet and writes on Fortinet topics of intermediate-advanced level. 
