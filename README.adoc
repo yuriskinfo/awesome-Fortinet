@@ -10,6 +10,7 @@ Places to get help.
 * https://community.fortinet.com - Community Forums, many Fortinet TAC folks frequent them and if questions are not being answered moderators (Anthony, Stephen, and Jean-Philippe) 
 take upon themselves to route the question to appropriate people. This is not an official support channel though - everything is done on volunteer basis. 
 * https://www.reddit.com/r/fortinet/ Reddit, many Fortinet employees hang around there, as well as very knowledgeable folks in general. 
+* https://discord.com/servers/r-fortinet-523281289512615946 Discord server of the Reddit community. 
 * https://community.fortinet.com/t5/Knowledge-Base/ct-p/knowledgebase Knowledgebase of example configurations, created and maintained by Fortinet staff. It has very 
 powerfull filtering/search capabilities, and is the 1st place to look for examples. 
 * https://docs.fortinet.com/4d-resources Collection of design documents, to be read _before_ deploying/integrating Fortinet products.
