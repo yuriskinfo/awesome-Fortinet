@@ -12,6 +12,8 @@ take upon themselves to route the question to appropriate people. This is not an
 * https://www.reddit.com/r/fortinet/ Reddit, many Fortinet employees hang around there, as well as very knwoledgeable folks in general. 
 * https://community.fortinet.com/t5/Knowledge-Base/ct-p/knowledgebase Knowledgebase of example configurations, created and maintained by Fortinet staff. It has very 
 powerfull filtering/search capabilities, and is the 1st place to look for examples. 
+* https://docs.fortinet.com/4d-resources Collection of design documents, to be read _before_ deploying/integrating Fortinet products.
+* https://docs.fortinet.com/ Gateway to all official docs: Handbooks, Release Notes etc.
 
 
 == News, Alerts, Updates
@@ -56,6 +58,7 @@ NOTE: Except official Fortinet resources, be extra careful and verify any script
 * https://github.com/fortinet-solutions-cse Official Fortinet repo, contains Postman collections, REST API library/examples, Kubernetes and Ansible examples.
 * https://fndn.fortinet.net/ Fortinet Developer Network, contains all automation documentation (APIs) for all the products. Unfortunately, access is either paid for (circa 2k USD/year) 
 or free if you can find 2 Fortinet employees to vouch for you. 
+* https://docs.ansible.com/ansible/latest/collections/fortinet/index.html Ansible collections for Fortigate and FortiManager.
 * https://github.com/FortiPower/PowerFGT PowerShell module to manage Fortinet (FortiGate) Firewall, enables you to manage Fortigate via REST API from Powershell. 
 * https://github.com/vladimirs-git/fortigate-api Python library that wraps some (not all) REST API calls for Fortigate.
 * https://github.com/bluecmd/fortigate_exporter Prometheus exporter for Fortigate firewalls to monitor your Fortigates.
@@ -66,9 +69,10 @@ put in your browser and they modify inline what you see in Web GUI of Fortigate.
 
 
 == Training
+Few *reputable* sources of learning (they are tons of other, unverified trainings that will not get here, sorry)
 * https://training.fortinet.com/ Official training self-paced courses from Fortinet. They are tailored to Fortinet exams FCP, FCX etc. but 
 also are good for self-learning. Starting 2020 they are free to everyone. 
-* https://www.cbtnuggets.com/it-training/fortinet CBT Nuggets, currently (2024) they have courses for Fortigate, FortiManager, FortiAnalyzer, Fortiswitch, and FortiAuthenticator. They are good for 1st time users/beginners. 
+* https://www.cbtnuggets.com/it-training/fortinet CBT Nuggets, currently (2024) they have courses on Fortigate, FortiManager, FortiAnalyzer, Fortiswitch, and FortiAuthenticator. They are good for 1st time users/beginners. 
 
 == Demo access
 Not sure if Fortinet folks like me sharing this (probably not :)) but anyway - demo access to the real Fortinet equipment, read-only.
