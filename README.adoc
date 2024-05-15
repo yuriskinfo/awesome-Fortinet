@@ -50,6 +50,8 @@ He is also one of the moderators of the r/fortinet sub-Reddit.
 * https://www.youtube.com/c/DevinAdams Devin Adams - professional instructor of many years, taught Fortinet courses at an official training center, so not only knows the stuff but also presents it clearly. 
 * https://www.youtube.com/@FortinetGuru Michael Pruett aka Fortinet Guru, has an independent, many times critical, view of Fortinet products. 
 * https://www.youtube.com/@FortiTip/videos Ofer Shmueli has quite a lot of videos targeted at the beginners, all of them being practical and straight to the point.
+* https://www.youtube.com/@FortiBytes  Chris Eddisford's channel who works at Fortinet, one of the newest on the block. 
+ 
 
 
 == Automation, Productivity Tips and Tools
