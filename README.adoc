@@ -74,6 +74,8 @@ also are good for self-learning. Starting 2020 they are free to everyone.
 Not sure if Fortinet folks like me sharing this (probably not :)) but anyway - demo access to the real Fortinet equipment, read-only.
 Unless specified otherwise - user/pass for all demos is *demo/demo*
 
+* https://support.fortinet.com/Download/VMImages.aspx You can always download for free VM images of the latest Fortigate version, this will include *permanent* 
+evaluation license with limits. I wrote a post on using this license https://yurisk.info/2022/08/08/Fortigate-free-VM-Evaluation-License-is-now-permanent-not-15-days/ 
 * https://www.fortinet.com/demo-center/ If presented below user/pass combos do not work, you can get the current ones at this page.
 * https://fortigate.fortidemo.com/ Fortigate
 * https://fortimail.fortidemo.com/admin/ FortiMail as Gateway
