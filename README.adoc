@@ -88,3 +88,8 @@ evaluation license with limits. I wrote a post on using this license https://yur
 * https://fortiweb.fortidemo.com/ Fortiweb
 * https://fortiadc.fortidemo.com/ FortiADC
 * https://fortiauthenticator.fortidemo.com/ FortiAuthenticator (user/pass: *demo/demo1234$*)
+
+
+
+_Know of some valuable resource not listed here? Drop me a line with description and your thoughts why you think everyone should 
+know abou tit at yuri@yursik.info_ 
