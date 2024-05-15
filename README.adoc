@@ -64,3 +64,20 @@ or free if you can find 2 Fortinet employees to vouch for you.
 put in your browser and they modify inline what you see in Web GUI of Fortigate. 
 * https://github.com/yuriskinfo/Fortinet-tools Yuri Slobodyanyuk's (me) repo of Fortigate Automation Stitches and Fortianalyzer Incident Handlers collection.
 
+
+== Training
+* https://training.fortinet.com/ Official training self-paced courses from Fortinet. They are tailored to Fortinet exams FCP, FCX etc. but 
+also are good for self-learning. Starting 2020 they are free to everyone. 
+* https://www.cbtnuggets.com/it-training/fortinet CBT Nuggets, currently (2024) they have courses for Fortigate, FortiManager, FortiAnalyzer, Fortiswitch, and FortiAuthenticator. They are good for 1st time users/beginners. 
+
+== Demo access
+Not sure if Fortinet folks like me sharing this (probably not :)) but anyway - demo access to the real Fortinet equipment, read-only.
+Unless specified otherwise - user/pass for all demos is *demo/demo*
+
+* https://www.fortinet.com/demo-center/ If presented below user/pass combos do not work, you can get the current ones at this page.
+* https://fortigate.fortidemo.com/ Fortigate
+* https://fortimail.fortidemo.com/admin/ FortiMail as Gateway
+* https://fortimail-srv.fortidemo.com/admin/Admin.html FortiMail as Server
+* https://fortiweb.fortidemo.com/ Fortiweb
+* https://fortiadc.fortidemo.com/ FortiADC
+* https://fortiauthenticator.fortidemo.com/ FortiAuthenticator (user/pass: *demo/demo1234$*)
