@@ -9,7 +9,7 @@ Places to get help.
 * https://support.fortinet.com Obvious one, if you have support contract for your equipment, the TAC is always available.
 * https://community.fortinet.com - Community Forums, many Fortinet TAC folks frequent them and if questions are not being answered moderators (Anthony, Stephen, and Jean-Philippe) 
 take upon themselves to route the question to appropriate people. This is not an official support channel though - everything is done on volunteer basis. 
-* https://www.reddit.com/r/fortinet/ Reddit, many Fortinet employees hang around there, as well as very knwoledgeable folks in general. 
+* https://www.reddit.com/r/fortinet/ Reddit, many Fortinet employees hang around there, as well as very knowledgeable folks in general. 
 * https://community.fortinet.com/t5/Knowledge-Base/ct-p/knowledgebase Knowledgebase of example configurations, created and maintained by Fortinet staff. It has very 
 powerfull filtering/search capabilities, and is the 1st place to look for examples. 
 * https://docs.fortinet.com/4d-resources Collection of design documents, to be read _before_ deploying/integrating Fortinet products.
@@ -23,7 +23,7 @@ How to stay up to date
 vulnerabilities disclosures. You may filter by product name, severity, FortiOS version and more. Even better - subscribe to its RSS feed, see next
 * https://filestore.fortinet.com/fortiguard/rss/ir.xml RSS Feed of Fortinet products vulnerabilities. 
 * https://www.fortiguard.com/rss-feeds List of all Fortinet-provided feeds, if you incline to. I, personally, am watching only PSIRT feed in real time, the rest are nice to read, may be once a week.
-* https://www.reddit.com/r/fortinet/  Fortinet subreddit, after new vulnerability/new FortiOS version have been announced, this is the place to read comments/personal experiences of others on the topic, of course all are opionated as suits reddit.
+* https://www.reddit.com/r/fortinet/  Fortinet subreddit, after new vulnerability/new FortiOS version have been announced, this is the place to read comments/personal experiences of others on the topic, of course all are opinionated as suits reddit.
 
 
 
@@ -31,7 +31,7 @@ vulnerabilities disclosures. You may filter by product name, severity, FortiOS v
 
 * https://www.ultraviolet.network/blog Matt Sherif's blog. Matt is a System Engineer at Fortinet and writes on Fortinet topics of intermediate-advanced level. 
 He is also one of the moderators of the r/fortinet sub-Reddit. 
-* https://infosecmonkey.com/ blog by Manny Fernandez - Sytem Engineer at Fortinet from US. The blog covers technical topics ranging from beginner up to advanced level.
+* https://infosecmonkey.com/ blog by Manny Fernandez - System Engineer at Fortinet from US. The blog covers technical topics ranging from beginner up to advanced level.
 * https://socpuppet.blogspot.com/ Ken Felix blog on many topics, including Fortinet-related. Ken is also a long-time contributor on the community.fortinet.com forums.
 * https://blog.rdorman.net/tag/fortigate/ Ryan Dorman's blog, with few posts Fortigate-related.
 * https://travelingpacket.com/category/forti-products/ Justin Cottrell blog on Fortigate, FortiAuthenticator, Fortiswitch, FortiNAC and more.
@@ -79,7 +79,7 @@ also are good for self-learning. Starting 2020 they are free to everyone.
 Not sure if Fortinet folks like me sharing this (probably not :)) but anyway - demo access to the real Fortinet equipment, read-only.
 Unless specified otherwise - user/pass for all demos is *demo/demo*
 
-* https://support.fortinet.com/Download/VMImages.aspx You can always download for free VM images of the latest Fortigate version, this will include *permanent* 
+* https://support.fortinet.com/Download/VMImages.aspx You can always download free VM images of the latest Fortigate version, this will include *permanent* 
 evaluation license with limits. I wrote a post on using this license https://yurisk.info/2022/08/08/Fortigate-free-VM-Evaluation-License-is-now-permanent-not-15-days/ 
 * https://www.fortinet.com/demo-center/ If presented below user/pass combos do not work, you can get the current ones at this page.
 * https://fortigate.fortidemo.com/ Fortigate
@@ -92,4 +92,4 @@ evaluation license with limits. I wrote a post on using this license https://yur
 
 
 _Know of some valuable resource not listed here? Drop me a line with description and your thoughts why you think everyone should 
-know abou tit at yuri@yursik.info_ 
+know about it at yuri@yursik.info_ 
