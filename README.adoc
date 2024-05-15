@@ -70,6 +70,7 @@ put in your browser and they modify inline what you see in Web GUI of Fortigate.
 
 == Training
 Few *reputable* sources of learning (they are tons of other, unverified trainings that will not get here, sorry)
+
 * https://training.fortinet.com/ Official training self-paced courses from Fortinet. They are tailored to Fortinet exams FCP, FCX etc. but 
 also are good for self-learning. Starting 2020 they are free to everyone. 
 * https://www.cbtnuggets.com/it-training/fortinet CBT Nuggets, currently (2024) they have courses on Fortigate, FortiManager, FortiAnalyzer, Fortiswitch, and FortiAuthenticator. They are good for 1st time users/beginners. 
