@@ -47,3 +47,20 @@ He is also one of the moderators of the r/fortinet sub-Reddit.
 * https://www.youtube.com/@FortinetGuru Michael Pruett aka Fortinet Guru, has an independent, many times critical, view of Fortinet products. 
 * https://www.youtube.com/@FortiTip/videos Ofer Shmueli has quite a lot of videos targeted at the beginners, all of them being practical and straight to the point.
 
+
+== Automation, Productivity Tips and Tools
+
+NOTE: Except official Fortinet resources, be extra careful and verify any script or tool before using in production. 
+
+* https://github.com/fortinet Official Fortinet repository, contains Terraform, AWS, Azure, and GCP deployment templates with examples. 
+* https://github.com/fortinet-solutions-cse Official Fortinet repo, contains Postman collections, REST API library/examples, Kubernetes and Ansible examples.
+* https://fndn.fortinet.net/ Fortinet Developer Network, contains all automation documentation (APIs) for all the products. Unfortunately, access is either paid for (circa 2k USD/year) 
+or free if you can find 2 Fortinet employees to vouch for you. 
+* https://github.com/FortiPower/PowerFGT PowerShell module to manage Fortinet (FortiGate) Firewall, enables you to manage Fortigate via REST API from Powershell. 
+* https://github.com/vladimirs-git/fortigate-api Python library that wraps some (not all) REST API calls for Fortigate.
+* https://github.com/bluecmd/fortigate_exporter Prometheus exporter for Fortigate firewalls to monitor your Fortigates.
+* https://github.com/mbdraks/fortinet-zabbix Zabbix Templates for Fortinet devices
+* https://github.com/fwsec/fgt-webui-tools Danny Jung's (author of Check Point well-known `ccc` script) FortiGate WebUI Tools - collection of JavaScript bookmarklets, that you 
+put in your browser and they modify inline what you see in Web GUI of Fortigate. 
+* https://github.com/yuriskinfo/Fortinet-tools Yuri Slobodyanyuk's (me) repo of Fortigate Automation Stitches and Fortianalyzer Incident Handlers collection.
+
