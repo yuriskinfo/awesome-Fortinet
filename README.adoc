@@ -39,6 +39,7 @@ He is also one of the moderators of the r/fortinet sub-Reddit.
 * https://travelingpacket.com/category/forti-products/ Justin Cottrell blog on Fortigate, FortiAuthenticator, Fortiswitch, FortiNAC and more.
 * https://andrewtravis.com/ Andrew Travis, System Engineer at Fortinet, blog. It covers wide range of technologies beyond Fortigate - FortiNAX, FortiNDR, FortiFlex and more.
 * https://www.historiantech.com/ Jonathan Torian blog on many things, including Fortigate, FortiAP, FortiSwitches and other.
+* https://fortixpert.blogspot.com/ The only non-Eglish blog here because it is that good, if you no habla Espanol - use Google translate, it is worth it. 
 * https://yurisk.info Yuri Slobodyanyuk blog on many things Fortinet-related.
 
 
