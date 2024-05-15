@@ -15,6 +15,7 @@ take upon themselves to route the question to appropriate people. This is not an
 powerfull filtering/search capabilities, and is the 1st place to look for examples. 
 * https://docs.fortinet.com/4d-resources Collection of design documents, to be read _before_ deploying/integrating Fortinet products.
 * https://docs.fortinet.com/ Gateway to all official docs: Handbooks, Release Notes etc.
+* https://support.fortinet.com/ticket/BugList.aspx Official Bug Tracker, available *only* to Fortinet Parners, good to check especially with new FortiOS versions if issue you are experiencing is a bug.
 
 
 == News, Alerts, Updates
