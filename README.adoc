@@ -39,7 +39,7 @@ He is also one of the moderators of the r/fortinet sub-Reddit.
 * https://travelingpacket.com/category/forti-products/ Justin Cottrell blog on Fortigate, FortiAuthenticator, Fortiswitch, FortiNAC and more.
 * https://andrewtravis.com/ Andrew Travis, System Engineer at Fortinet, blog. It covers wide range of technologies beyond Fortigate - FortiNAX, FortiNDR, FortiFlex and more.
 * https://www.historiantech.com/ Jonathan Torian blog on many things, including Fortigate, FortiAP, FortiSwitches and other.
-* https://fortixpert.blogspot.com/ The only non-Eglish blog here because it is that good, if you no habla Espanol - use Google translate, it is worth it. 
+* https://fortixpert.blogspot.com/ The only non-English blog here because it is that good, if you no habla Espanol - use Google translate, it is worth it. 
 * https://yurisk.info Yuri Slobodyanyuk blog on many things Fortinet-related.
 
 
@@ -70,6 +70,8 @@ or free if you can find 2 Fortinet employees to vouch for you.
 * https://github.com/mbdraks/fortinet-zabbix Zabbix Templates for Fortinet devices
 * https://github.com/fwsec/fgt-webui-tools Danny Jung's (author of Check Point well-known `ccc` script) FortiGate WebUI Tools - collection of JavaScript bookmarklets, that you 
 put in your browser and they modify inline what you see in Web GUI of Fortigate. 
+* https://github.com/diegobernardelli/fgDeepConfCompare Python script that compares 2 Fortigate configurations for differences.
+* https://github.com/AsBuiltReport/AsBuiltReport.Fortinet.FortiGate Powershell scripts collection to present you detailed report of all things configured in the Fortigate.
 * https://github.com/yuriskinfo/Fortinet-tools Yuri Slobodyanyuk's (me) repo of Fortigate Automation Stitches and Fortianalyzer Incident Handlers collection.
 
 
