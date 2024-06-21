@@ -26,6 +26,7 @@ vulnerabilities disclosures. You may filter by product name, severity, FortiOS v
 * https://filestore.fortinet.com/fortiguard/rss/ir.xml RSS Feed of Fortinet products vulnerabilities. 
 * https://www.fortiguard.com/rss-feeds List of all Fortinet-provided feeds, if you incline to. I, personally, am watching only PSIRT feed in real time, the rest are nice to read, may be once a week.
 * https://www.reddit.com/r/fortinet/  Fortinet subreddit, after new vulnerability/new FortiOS version have been announced, this is the place to read comments/personal experiences of others on the topic, of course all are opinionated as suits reddit.
+* https://community.fortinet.com/t5/FortiGate/Technical-Tip-Recommended-Release-for-FortiOS/ta-p/227178 Currently recommended FortiOS versions per Fortigate model. If you have doubts what version to install among many - look here for the most stable one.
 
 
 
