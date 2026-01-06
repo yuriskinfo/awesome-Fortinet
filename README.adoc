@@ -32,6 +32,7 @@ vulnerabilities disclosures. You may filter by product name, severity, FortiOS v
 
 == Blogs
 
+* https://blog.guenay.at/ Kevin Guenay blog, one of the most active members of r/fortinet, also hailed Member of the 2023 Year there.
 * https://www.ultraviolet.network/blog Matt Sherif's blog. Matt is a System Engineer at Fortinet and writes on Fortinet topics of intermediate-advanced level. 
 He is also one of the moderators of the r/fortinet sub-Reddit. 
 * https://infosecmonkey.com/ blog by Manny Fernandez - System Engineer at Fortinet from US. The blog covers technical topics ranging from beginner up to advanced level.
