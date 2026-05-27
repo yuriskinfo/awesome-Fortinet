@@ -32,6 +32,7 @@ vulnerabilities disclosures. You may filter by product name, severity, FortiOS v
 
 == Blogs
 
+* https://blog.golle.org/  Emil Boklund blog, not Fortinet-only but includes.
 * https://implicitdeny.info/ David Traill blog, System Engineer at Fortinet.
 * https://blog.guenay.at/ Kevin Guenay blog, one of the most active members of r/fortinet, also hailed Member of the 2023 Year there.
 * https://www.ultraviolet.network/blog Matt Sherif's blog. Matt is a System Engineer at Fortinet and writes on Fortinet topics of intermediate-advanced level. 
